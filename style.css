@@ -17,11 +17,24 @@ font-family: 'Open Sans', sans-serif;
     margin-top:50px;
 
 }
+.flowers{
+    background-color: rgb(201, 183, 243);
+    margin-top:40px;
+    
+   
+}
 .header-design{
     width:1920px;
     height:850px;
     background-color: rgba(229, 84, 115, 0.10); 
     display:flex;
+}
+.head-design{
+     text-align:center;
+    
+}
+.designs{
+    margin-left:70px;
 }
 .button-design{
     border-radius: 8px;
@@ -33,6 +46,7 @@ padding:15px;
 border:none;
 }
 h1{
+    margin-left:40px;
     margin-bottom:50px;
 }
 p{
@@ -105,6 +119,8 @@ padding-top:90px;
 .nav-3{
     margin-right:350px;
 }
+
+/*main part*/
 h2{
     padding-top:60px;
     text-align:center;
@@ -156,15 +172,19 @@ font-weight: 400;
 .list-design-3{
     margin-right:30px;
 }
-label{
-    margin-left:630px;
-    margin-bottom:300px;
-}
+
 .container
 {
-  background-image: url("images/Rectangle-9.png");
-  margin-left:240px;
+  background-image:url('images/Rectangle-9.png') ;
+  width: 1440px;
+height: 449px;
+margin-left:240px;
+
+  
  
+}
+pre{
+    margin-left: 580px;;
 }
 .second-header{
     color: #E55473;
@@ -173,6 +193,7 @@ font-size: 48px;
 font-weight: 800;
 
 }
+/*footer*/
 .styles{
     background-color: rgb(77, 70, 69);
 }
@@ -192,9 +213,12 @@ margin-left:750px;
 .footer-style{
     color: rgba(255, 255, 255, 0.40);
 text-align: center;
-font-family: Lato;
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
+
+}
+.last-button{
+    border-radius: 5px;
+background: #E55473;
+padding: 6px;
 }
