@@ -22,3 +22,13 @@ font-family: 'Open Sans', sans-serif;
     background-color: rgba(229, 84, 115, 0.10); 
     display:flex;
 }
+.button-design{
+    border-radius: 8px;
+background: #E55473;
+font-size:20px;
+font-style:normal;
+font-weight:700px;
+padding:15px;
+border:none;
+
+}
