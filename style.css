@@ -17,10 +17,21 @@ font-family: 'Open Sans', sans-serif;
     margin-top:50px;
 
 }
+
 .flowers{
     background-color: rgb(201, 183, 243);
     margin-top:40px;
+    background-image: url('./images/flower buquea.jpg');
     
+   
+}
+.designing{
+    margin-bottom:0px;
+    color:rgb(238, 117, 117);
+}
+.head-design{
+    text-align:center;
+    margin-bottom:1px;
    
 }
 .header-design{
