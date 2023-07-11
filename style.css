@@ -30,5 +30,19 @@ font-style:normal;
 font-weight:700px;
 padding:15px;
 border:none;
-
+}
+h1{
+    margin-bottom:50px;
+}
+p{
+    margin-bottom:40px;
+    font-size:larger;
+}
+/*header second part*/
+.second-part{
+    text-align:center;
+    margin-top:100px;
+}
+.para-style{
+    text-align:center;
 }
