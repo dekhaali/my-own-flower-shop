@@ -143,11 +143,58 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 }
-.unorder-list-design{
-    display:flex;
-}
+
+
 .list-design-1{
-    margin-right:40px;
-    margin-left:-100px;
+    margin-right:20px;
+    margin-left:-250px;
    
+}
+.list-design-2{
+    margin-right:20px;
+}
+.list-design-3{
+    margin-right:30px;
+}
+label{
+    margin-left:630px;
+    margin-bottom:300px;
+}
+.container
+{
+  background-image: url("images/Rectangle-9.png");
+  margin-left:240px;
+ 
+}
+.second-header{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+
+}
+.styles{
+    background-color: rgb(77, 70, 69);
+}
+.section{
+    margin-left:1000px;
+    width: 1920px;
+height: 4867px;
+}
+.design-para{
+    color: rgba(212, 146, 146, 0.9);
+text-align: center;
+font-size: 12px;
+display: flex;
+margin-left:750px;
+
+}
+.footer-style{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
