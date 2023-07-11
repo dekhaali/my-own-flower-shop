@@ -1,0 +1,24 @@
+/*common shared styles*/
+body{
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+/*header related styles*/
+/*header first part*/
+.text-design{
+    margin-left:300px;
+    position:absolute;
+    margin-top:300px;
+}
+.image-design{
+    padding:0px 240px 300px 1045px;
+    width:435px;
+    height:auto;
+    margin-top:420px;
+}
+.header-design{
+    width:1920px;
+    height:850px;
+    background-color: rgba(229, 84, 115, 0.10); 
+    display:flex;
+}
